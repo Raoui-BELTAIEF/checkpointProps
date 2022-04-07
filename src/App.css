@@ -1,0 +1,10 @@
+.inProfile{
+  color: brown;
+  font-size: larger;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  margin-right: 200px;
+  justify-content: space-around;
+}
+img {
+  size: 50px;
+}
